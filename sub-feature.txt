@@ -1,1 +1,3 @@
+
+Initial Commit In The sub feature file
 Changes on The sub Feature file that conflicts with feature branch
