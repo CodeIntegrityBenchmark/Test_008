@@ -1,4 +1,4 @@
-# Test_007
+# Test_008
 This project is part of a benchmark / test suite used to check the different git histories created through different development processes. The test suite is meant to be processed by SPHA-Code-Integrity.
 
 ## Textual Description
@@ -16,4 +16,4 @@ Expected Commits against integrity rules :
 * Make a commit on the feture branch that also conflicts with sub-feature
 * Then merge it with the sub-feature branch using a PR. Resolve conflicts
 * Create a third commit on the main branch that conflicts with the sub feature branch.
-* Create one more commit on the feature branch and then raise a PR and merge the feature branch with the main branch.
+* Create multiple on the feature branch and then raise a PR and merge the feature branch with the main branch.
